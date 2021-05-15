@@ -27,7 +27,7 @@ public class Kiosko {
             System.out.println("**        Kiosko Trassierra        **");
             System.out.println("*************************************\n");
             System.out.println("1. Cargar el registro de ventas (todo el registro)");
-            System.out.println("2. Mostrar el registro de ventas");
+            System.out.println("2. Mostrar el registro de las ventas");
             System.out.println("3. Introducir N ventas (aleatorio)");
             System.out.println("4. Guardar el registro de ventas en un fichero (todo el registro)");
             System.out.println("5. Cargar las ventas del registro desde un fichero (item a item)");
